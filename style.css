@@ -1,0 +1,28 @@
+.gras {
+  font-weight: bold;
+}
+.color {
+  color: rgb(255, 255, 255);
+}
+
+.sizecard {
+  width: 85mm;
+  height: 55mm;
+  border: 3px solid rgb(116, 27, 27);
+  background-color: rgb(116, 27, 27);
+  box-sizing: border-box; 
+  border-radius: 10px;
+  align-items: center;
+}
+
+.exemplefantasy {
+  font-family: sans-serif;
+  display: inline;
+}
+
+.image{
+  float: right;
+  width: 50%;
+  border-radius: 6px;
+}
+
